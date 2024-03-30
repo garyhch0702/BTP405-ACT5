@@ -6,8 +6,7 @@ Chenghao Hu
 
 ## Course
 
-BTP405 - Software Development Technologies
-
+BTP405
 ## Activity 5
 
 This project consists of a concurrent echo server and a client, developed in Python. The server is capable of handling multiple client connections simultaneously, utilizing threads to manage concurrent communications. Each client can send messages to the server, which then echoes the messages back. The implementation demonstrates basic concepts of socket programming and concurrency in Python.
@@ -27,7 +26,7 @@ Ensure you have Python 3.x installed on your system to run the server and client
 
 Clone this repository to your local machine to get started:
 
-git clone <repository-url>
+git clone [<repository-url>](https://github.com/garyhch0702/BTP405-ACT5.git)
 
 Navigate to the cloned directory before running the scripts.
 
@@ -49,10 +48,3 @@ python client.py
 
 After establishing the connection, you can type messages to send to the server. To close the connection, type `quit`.
 
-## Contributing
-
-If you are interested in contributing to this project, please fork the repository and submit a pull request with your proposed changes.
-
-## License
-
-This project is open-sourced under the MIT License. See the LICENSE file for more details.
